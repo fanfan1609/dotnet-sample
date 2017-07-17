@@ -1,0 +1,8 @@
+/Users/Dat/Workspace/C#/SampleWebApp/bin/Debug/netcoreapp1.1/SampleWebApp.deps.json
+/Users/Dat/Workspace/C#/SampleWebApp/bin/Debug/netcoreapp1.1/SampleWebApp.runtimeconfig.json
+/Users/Dat/Workspace/C#/SampleWebApp/bin/Debug/netcoreapp1.1/SampleWebApp.runtimeconfig.dev.json
+/Users/Dat/Workspace/C#/SampleWebApp/bin/Debug/netcoreapp1.1/SampleWebApp.dll
+/Users/Dat/Workspace/C#/SampleWebApp/bin/Debug/netcoreapp1.1/SampleWebApp.pdb
+/Users/Dat/Workspace/C#/SampleWebApp/obj/Debug/netcoreapp1.1/SampleWebApp.AssemblyInfo.cs
+/Users/Dat/Workspace/C#/SampleWebApp/obj/Debug/netcoreapp1.1/SampleWebApp.dll
+/Users/Dat/Workspace/C#/SampleWebApp/obj/Debug/netcoreapp1.1/SampleWebApp.pdb
